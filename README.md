@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Polina 👋
+# Polina Zakrevskaya
 
 ### Frontend Developer · React • Redux • JavaScript • TypeScript
 
@@ -83,16 +83,6 @@ A **C# / .NET WPF** graphic editor demonstrating core OOP principles: inheritanc
 `C#` `WPF` `.NET` `OOP` `Factory Pattern` `Reflection`
 
 [→ View on GitHub](https://github.com/ppl0l/OOP)
-
----
-
-## 🎓 Education
-
-**Belarusian State University of Informatics and Radioelectronics (BSUIR)**
-Bachelor's degree, Software Engineering · *Sep 2023 – Jul 2027*
-- GPA: 8.1 / 10
-- Faculty of Computer Systems and Networks (FCSN)
-- Focus: core Computer Science concepts, modern web development, software architecture, and algorithms.
 
 ---
 
