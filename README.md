@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-Specializing in **JavaScript · TypeScript · React · Redux**.
+**Frontend Developer** specializing in **JavaScript · TypeScript · React · Redux**.
 
 Focused on building responsive, scalable, and high-performance web applications using modern component-driven architecture and modular styling. Committed to clean, maintainable code and effective communication, always open to sharing knowledge, collaborating with the team, and continuously learning.
 
