@@ -103,11 +103,3 @@ A **C# / .NET WPF** graphic editor demonstrating core OOP principles: inheritanc
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppzakrevskaya@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-⭐️ From [Polina Zakrevskaya](https://github.com/ppl0l)
-
-</div>
